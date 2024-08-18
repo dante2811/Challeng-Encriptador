@@ -15,22 +15,7 @@ En este reto, trabajarás en la creación y desencriptación de texto utilizando
 
 ## 🛠 Tecnologías Utilizadas
 
-- **Python** (Lenguaje principal para la implementación)
-- **Biblioteca de Criptografía** (Para técnicas avanzadas de encriptación)
-- **Jupyter Notebook** (Para pruebas y demostración de los algoritmos)
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-## 📂 Estructura del Proyecto
-
-```bash
-.
-├── README.md               # Descripción del proyecto e instrucciones
-├── encriptador.py          # Lógica principal de encriptación y desencriptación
-├── retos/
-│   ├── reto_1.py           # Reto de Cifrado César
-│   ├── reto_2.py           # Reto de Cifrado Vigenère
-│   ├── reto_3.py           # Reto de Encriptación AES
-│   └── ...                 # Más retos por explorar
-├── tests/
-│   └── test_encriptador.py # Pruebas unitarias para funciones de encriptación/desencriptación
-└── ejemplos/
-    └── ejemplos_input.txt  # Archivos de texto de ejemplo para encriptar/desencriptar
